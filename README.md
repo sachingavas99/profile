@@ -1,9 +1,9 @@
 
-## Useful Links
+## Links about me
 
-- [my profile](https://www.---) from Creative Tim
-- [resume](https://www.---)
+- [my profile](https://suchg.github.io/profile) from Creative Tim
+- [resume](https://suchg.github.io/profile/#/resume)
 
-##### Social Media
+##### Fine me on Social Media
 
-Twitter: <https://twitter.com/-->
+Linkedin: <https://www.linkedin.com/in/sachin-gavas-0b39175a>
