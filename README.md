@@ -1,4 +1,7 @@
 
+## Description
+This project build in Angular 9 and used to show my profile, experties and experience.
+
 ## Links about me
 
 - [my profile](https://suchg.github.io/profile) from Creative Tim
